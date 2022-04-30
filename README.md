@@ -1,4 +1,4 @@
-# flight-price-
+# Flight-Price-Predict
 
 PROJECT DISCRIPTION:
 
